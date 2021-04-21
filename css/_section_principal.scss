@@ -1,0 +1,30 @@
+
+
+.contenido_principal{
+    display: grid;
+    grid-template-columns:50% 50%;
+    width: 80%;
+    margin: 0px auto 10px;
+    background:#34333d;  
+    background:#e9e9e9;
+    padding: 30px;
+
+
+    .contenido_2{
+        h2{
+            color: rgb(150, 50, 50);
+        }
+    }
+   
+    .contenido_1{
+        h2{
+            color: rgb(150, 50, 50);
+        }
+
+    .proyecto{
+        padding: 10px;
+
+        
+    }
+  }
+}
